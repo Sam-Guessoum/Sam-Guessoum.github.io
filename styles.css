@@ -97,23 +97,22 @@ footer {
 
 .portrait-wrap {
   width: 180px;
+  height: 180px;
   max-width: 100%;
   border: 1px solid var(--line);
   background: var(--paper);
-  padding: 0.45rem;
+  padding: 0.35rem;
+  overflow: hidden;
+  border-radius: 50%;
 }
 
 .portrait {
-  display: grid;
+  display: block;
   width: 100%;
-  aspect-ratio: 1;
-  place-items: center;
-  background:
-    linear-gradient(135deg, rgb(140 21 21 / 16%), transparent 42%),
-    linear-gradient(45deg, rgb(53 106 109 / 16%), transparent 52%),
-    var(--soft);
-  color: var(--link);
-  font-size: 3rem;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 35%;
+  border-radius: 50%;
 }
 
 h1,

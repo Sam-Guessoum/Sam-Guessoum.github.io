@@ -1,107 +1,563 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 5 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 12 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://www.linkedin.com/in/sam-guessoum-665b43162)
->> /Border [ 0 0 0 ] /Rect [ 368.4582 712.68 400.2102 722.76 ] /Subtype /Link /Type /Annot
+/Annots [ 5 0 R 6 0 R ]
+/Contents 7 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 8 0 R
+/F1-0 9 0 R
+/F2 10 0 R
+/F3 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056linkedin\056com\057in\057sam\055guessoum\055665b43162)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 352.9935 714 387.0135 725 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
-/Annots [ 4 0 R ] /Contents 11 0 R /MediaBox [ 0 0 612 792 ] /Parent 10 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057sam\055guessoum\056github\056io\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 394.3575 714 426.8655 725 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/Contents 12 0 R /MediaBox [ 0 0 612 792 ] /Parent 10 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 10197
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.56 727.76 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 0 3 Tm /F2 25 Tf 28 TL 187.315 0 Td (Sam Guessoum) Tj T* -187.315 0 Td ET
+Q
+Q
+q
+1 0 0 1 40.56 711.76 cm
+q
+BT 1 0 0 1 0 2.6 Tm 171.2298 0 Td 11 TL /F1 8.4 Tf .309804 .321569 .313725 rg (Worcester, MA | msguessoum@wpi.edu | ) Tj .090196 .090196 .090196 rg (LinkedIn) Tj T* -171.2298 0 Td ET
+Q
+Q
+q
+1 0 0 1 40.56 700.76 cm
+Q
+q
+1 0 0 1 40.56 682.26 cm
+q
+.54902 .082353 .082353 rg
+BT 1 0 0 1 0 1.3 Tm /F3 9.2 Tf 10.5 TL (RESEARCH PROFILE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.6 677.54 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 5 Tm  T* ET
+q
+1 J
+1 j
+.85098 .827451 .784314 RG
+.5 w
+n 0 .72 m 514.8 .72 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.56 634.34 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 0 34.8 Tm /F1 8.4 Tf 10.8 TL (Artificial intelligence researcher and Computer Science PhD candidate at Worcester Polytechnic Institute with a 4.0/4.0 M.S. in Artificial) Tj T* (Intelligence. Research spans biomedical AI, ophthalmic surgical-video analysis, multimodal decision support, applied optimization, and) Tj T* (multi-agent systems, with accepted work across Computing in Cardiology, IEEE venues, AMAI, HECKTOR, AFRICAI/MICCAI, and Springer) Tj T* (LNCS-related research.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 629.34 cm
+Q
+q
+1 0 0 1 40.56 610.84 cm
+q
+.54902 .082353 .082353 rg
+BT 1 0 0 1 0 1.3 Tm /F3 9.2 Tf 10.5 TL (EDUCATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.6 606.12 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 5 Tm  T* ET
+q
+1 J
+1 j
+.85098 .827451 .784314 RG
+.5 w
+n 0 .72 m 514.8 .72 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.56 584.52 cm
+q
+BT 1 0 0 1 0 13.2 Tm 10.8 TL /F3 8.4 Tf .090196 .090196 .090196 rg (Worcester Polytechnic Institute) Tj /F1 8.4 Tf ( - PhD candidate in Computer Science; M.S. Artificial Intelligence, GPA 4.0/4.0 | PhD 2026 - 2029; M.S. Aug) Tj T* (2024 - Aug 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 571.92 cm
+q
+.309804 .321569 .313725 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.8 Tf 9.6 TL (Thesis: Adaptive Multi-Agent Heuristic Orchestration for 1D/2D Bin-Packing Problems, extended toward industrial 3D bin packing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 559.12 cm
+q
+BT 1 0 0 1 0 2.4 Tm 10.8 TL /F3 8.4 Tf .090196 .090196 .090196 rg (University of Greenwich) Tj /F1 8.4 Tf ( - B.Sc. Applied Mathematics | Sep 2020 - Aug 2023) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 546.52 cm
+q
+.309804 .321569 .313725 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.8 Tf 9.6 TL (Machine Learning examination: 85%; capstone on English Premier League match prediction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 542.52 cm
+Q
+q
+1 0 0 1 40.56 524.02 cm
+q
+.54902 .082353 .082353 rg
+BT 1 0 0 1 0 1.3 Tm /F3 9.2 Tf 10.5 TL (RESEARCH AND PROFESSIONAL EXPERIENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.6 519.3 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 5 Tm  T* ET
+q
+1 J
+1 j
+.85098 .827451 .784314 RG
+.5 w
+n 0 .72 m 514.8 .72 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.56 504.5 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 0 2 Tm /F3 8.8 Tf 10.8 TL (Research Intern, Harvard Ophthalmology AI Lab, Massachusetts Eye and Ear / Harvard Medical School) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 493.9 cm
+q
+.309804 .321569 .313725 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.8 Tf 9.6 TL (Sep 2026 - May 2027 | Supervisor: Mohammad Eslami) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 471.9 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 9 12 Tm /F1 8 Tf 10 TL -6 0 Td (- Developing a cataract-surgery video intelligence project that converts surgical video into structured timelines, interactive reports, and) Tj T* 6 0 Td (evidence-linked review outputs for ophthalmology research.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 450.4 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 9 12 Tm /F1 8 Tf 10 TL -6 0 Td (- Own the end-to-end research workflow: data organization, model evaluation, experiment tracking, reviewer-facing figures, manuscript drafting, and) Tj T* 6 0 Td (coordination with hospital-affiliated collaborators.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 438.9 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 9 2 Tm /F1 8 Tf 10 TL -6 0 Td (- Reported strong locked-test-set results for phase recognition, instrument detection, and clinically interpretable timestamped outputs.) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 40.56 424.1 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 0 2 Tm /F3 8.8 Tf 10.8 TL (Research Assistant, Worcester Polytechnic Institute) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 413.5 cm
+q
+.309804 .321569 .313725 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.8 Tf 9.6 TL (Jan 2025 - Present | Advisor: Chun-Kit Ngan; collaborator: Rolf Bardeli) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 401.5 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 9 2 Tm /F1 8 Tf 10 TL -6 0 Td (- Lead research on adaptive multi-agent optimization for 1D, 2D, and 3D bin-packing problems under academic and industrial constraints.) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 40.56 380 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 9 12 Tm /F1 8 Tf 10 TL -6 0 Td (- Designed reproducible benchmark studies across 3,000+ problem instances and 12 datasets, comparing solution quality, runtime, scalability, and) Tj T* 6 0 Td (generalization across packing geometries.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 358.5 cm
+q
+BT 1 0 0 1 9 12 Tm -6 0 Td 10 TL /F1 8 Tf .090196 .090196 .090196 rg (- Contributed to a peer-reviewed bin-packing paper and Springer LNCS-related extension, reporting 9% average bin-utilization improvement, 10x) Tj T* 6 0 Td (speedup over Branch and Bound, and <) Tj (=2% optimality gap.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 343.7 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 0 2 Tm /F3 8.8 Tf 10.8 TL (Research Collaborator, RISE Lab, Johns Hopkins University) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 333.1 cm
+q
+.309804 .321569 .313725 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.8 Tf 9.6 TL (Mar 2026 - Present | Supervisor: Samuel Miles) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 321.1 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 9 2 Tm /F1 8 Tf 10 TL -6 0 Td -0.038 Tw (- Contribute to a health-facility electricity reliability and medical-oxygen access study across three provinces of the Democratic Republic of the Congo.) Tj T* 0 Tw 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 40.56 299.6 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 9 12 Tm /F1 8 Tf 10 TL -6 0 Td (- Support facility classification, outage and voltage analysis, oxygen-system vulnerability assessment, cross-province visualizations, predictive) Tj T* 6 0 Td (reliability modeling, and manuscript deliverables.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 288.1 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 9 2 Tm /F1 8 Tf 10 TL -6 0 Td (- Translate heterogeneous survey, facility, and device-energy data into reproducible research outputs for global-health infrastructure planning.) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 40.56 273.3 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 0 2 Tm /F3 8.8 Tf 10.8 TL (Research Intern, Findability Sciences) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 262.7 cm
+q
+.309804 .321569 .313725 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.8 Tf 9.6 TL (Aug 2025 - Dec 2025 | Advisors: Fatemeh Emdad, Chun-Kit Ngan, Bahman Moraffah; sponsors: Sagar and Prachi Mahurkar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 240.7 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 9 12 Tm /F1 8 Tf 10 TL -6 0 Td (- Built an industrial sensor-optimization project for sugarcane milling, reducing 150+ sensor variables into interpretable control features and) Tj T* 6 0 Td (operational recommendations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 219.2 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 9 12 Tm /F1 8 Tf 10 TL -6 0 Td (- Produced Pareto-optimized recommendations associated with approximately 4.8% simulated efficiency improvement and presented the work as a) Tj T* 6 0 Td (research poster.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 207.7 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 9 2 Tm /F1 8 Tf 10 TL -6 0 Td (- Recognized as Most Valuable Player for the WPI Data Science Graduate Qualifying Project.) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 40.56 192.9 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 0 2 Tm /F3 8.8 Tf 10.8 TL (Research Intern, thyssenkrupp Materials Services) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 182.3 cm
+q
+.309804 .321569 .313725 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.8 Tf 9.6 TL (Jan 2025 - May 2026 | Collaborators: Chun-Kit Ngan and Rolf Bardeli) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 160.3 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 9 12 Tm /F1 8 Tf 10 TL -6 0 Td (- Developed applied optimization research for rectangular and 3D packing under industrial constraints, connecting academic benchmark performance) Tj T* 6 0 Td (with practical logistics settings.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 148.8 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 9 2 Tm /F1 8 Tf 10 TL -6 0 Td (- Prepared experimental results, technical writeups, and extension materials for peer-reviewed dissemination.) Tj T* 6 0 Td ET
+Q
+Q
+q
+1 0 0 1 40.56 134 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 0 2 Tm /F3 8.8 Tf 10.8 TL (Graduate Student Ambassador, Worcester Polytechnic Institute) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 123.4 cm
+q
+.309804 .321569 .313725 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.8 Tf 9.6 TL (Feb 2025 - Present) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 101.4 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 9 12 Tm /F1 8 Tf 10 TL -6 0 Td (- Support prospective and admitted graduate students through program outreach, onboarding, campus tours, virtual sessions, and graduate) Tj T* 6 0 Td (community engagement.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.56 97.9 cm
+Q
+q
+1 0 0 1 40.56 79.4 cm
+q
+.54902 .082353 .082353 rg
+BT 1 0 0 1 0 1.3 Tm /F3 9.2 Tf 10.5 TL (SELECTED PUBLICATIONS, MANUSCRIPTS, AND POSTERS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.6 74.68 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 5 Tm  T* ET
+q
+1 J
+1 j
+.85098 .827451 .784314 RG
+.5 w
+n 0 .72 m 514.8 .72 l S
+Q
+Q
+Q
+q
+1 0 0 1 40.56 55.88 cm
+q
+.090196 .090196 .090196 rg
+BT 1 0 0 1 7 11 Tm /F1 7.8 Tf 9.4 TL -5 0 Td (- A Multimodal Decision-Support Framework for Cardiology Triage with Learning-Based Test Selection and Explainable AI - Computing in Cardiology) Tj T* 5 0 Td (2026, accepted regular track - Sam Guessoum et al.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 708 612 20 re
+f*
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 185.1345 716 Tm
+(Worcester\054 MA \174 msguessoum\100wpi\056edu \174 ) Tj
+T*
+ET
+BT
+1 0 0 1 352.9935 716 Tm
+(LinkedIn) Tj
+T*
+ET
+n
+352.9935 714.8 m
+387.0135 714.8 l
+S
+BT
+1 0 0 1 387.0135 716 Tm
+( \174 ) Tj
+T*
+ET
+BT
+1 0 0 1 394.3575 716 Tm
+(Website) Tj
+T*
+ET
+n
+394.3575 714.8 m
+426.8655 714.8 l
+S
+Q
+
+
+endstream
 endobj
 8 0 obj
 <<
-/PageMode /UseNone /Pages 10 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260825142633-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260825142633-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 10 0 obj
 <<
-/Count 2 /Kids [ 6 0 R 7 0 R ] /Type /Pages
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 11 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 3754
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gb!#^?$G!n&q/*0W0a%7h$!t=mpu0_`>BuHfJ-mWcG$_U"$Mdr)RY7CSGD]%X7]mD:)#TKbjhsSqWP)b^3/aB8M7F?j4_7s89DD82qK[m*\CFRG+9$oDJ6>#p%p8K\?aS(\io>*IAbu?/NDdtL+RW%UZ9[2r<gHQeI6:uKG`MiYKN\f"!62;oUWGF`Tb@)0'4@RpR*j-BAq`]nJa(Z:<eDa@*:4uq8+3)XmA'8e8opuXkS%?cPmAb6!TbSk(O:iKe%2tXl5r'_5HI>HUE1lm68`feo^G_:4-bRR5F,N7"8*JeqJhXIZ0O:QPg9:A&%F;]!tVbB=XO%c`9+2k\J@V[>JODH*0*q*3\.LDJ.Vm0]Bf_GMC[2nIE'(Ym5+a3r'P$./(X!rFA)0h2aeIm/HF!H8@#;r6heM4PK,q0kEOmbFZeQZIimEJ\;+FHNs,@bL79FnrQ)ppU=5LTF:LX1[t73Y"MN>ctU*4\poc`dGq852`lGK6L"W7"8b6S\[C`,\$S4l]5o/OH!'C"$5%69`TP2g8_$H/8d(ra<!InWbK-$780^R_De)0Y>1-N.E<_NOgfO4ICi`$/cD[R1-&Ij9*77Fb]2\Wr8GP*%9WD"G8WP@WOJ%W_H@oS9Flj0GV!%Qs/\.8:g#:;+@0i9'7"ubI%cpUaY]hp@OH)9a7Kam310LpFj3=]08e%giYVXEY.*R9BKmJS[QI8i(km/*GYti^OM)Z!0>[eg\U](fRc8KphPr\R3VLUZUR2o<F@a'3W^+\L\2a?Tg1]C%S0nlN)[-#nu7C#lRd-FtiVN],T[PC0k2/%*Tepj'GIpUpdj592"l$,%5F#tD'q#n<W*[_dn-C#`5+33tb+p5Y[QM]]i*Q^<J]O?AX(X=`B3p-jTajm<ZBJI3t=;+o@SqH8&/&kV6cuHYR$S:VPH*(Ki28&jM>/*@\2'HE,ZknoBe3"'g7aP#j]uqX505UC#V*XQ_UFO:_[)7/@ctJV-L?6\5\cNTVGAn=Qm"I<1l@RQAKnmC6</r,#O\_UaY(3%67Ef3c&YO&VZkS>1Xe]/?C*O[4+(UZcGflpGVBM-M2E#9G'6:;5GZT!dU?5/ET/kJ7M1,_HABLfL7S?-?WZMh$nDQ.?c0VG'($Hm:35;@DEk:(8"k9<;g\F(Ln0u3]';NtrknUm-Ul6@[^Ng+gQd4C,/euTP/(0CcZ$>/68*;YiNG:WF=hAPlSR.$8+5aD/iGV[@km$JfZ0154#ZYF0jt.%RYMTAqYt6gU_/;uAFeHq_q]eH3']V*m$c6r"k]+I5c?Ik-7E6q0nA70r=SL)n'Lj1JXB:k6kMW]Z#jK+1ao->PEEj_0\h4ioYK:]7nCq[*_(5I@aC.p0L+4c2r?Oq%+%3ErGe5I]ZH[^:d<$TS+>&:%5Ybp%RMqX]UePhBOjKT_cJ'PHci&jS5n,#!_mV?`(T<7b@[aqE49!ss:s3=9CmEDi>Ir?(&V^?6RfI]:1QH2?'LrZc-jkZoqj@n/p56_\8QTp_"!)I$#t.lF'&f`_eiY_@;(d,("C.J\hkZkW2BsMT7j&mu^(a/bGA%%>Aq$0pbaBrF!Q#d<b(K4(bfbiRZ"+>d;/)K[OYC3"YU':Ph(&4k3_PUEN2:<<!/^/E/tHn'3D&Gc47V_nJj1M(5r;Nr`(+BueSqQS5JAG>?9pVTMl>'V:ld@S\J7D2*0F"s#J>aaL!4'@8u#M#9U[Kjo1lF;)K'*m.\b/^M2G58-=W7oX']hCY;HGmcDJ.lgh7A%'WP38<[ppHqtW8Y`.LNGe;:/I@s`/E(2LR-Dp\PH!$$tu#27,;2cJf$-K:M#MEIJKICp/Hn`/qXUiOe\L]M-O\!.FmQ/X,4&7TS_],Z7?&#hft\$.]g#\+Y83O#"uf6qN/8.P'u.;r`>>>c',I/"b>pPlk;Yj@s>`-r=21KToC,bl:Wr=dVZ+L(A_Mjcl2PWf0#mg^K4QL8n"U.]GZK"oUlQ?udFWJ)!2_-Rr[pS*n)qj#c^I9($s#'j91E,oC=/;,$BT,!!C5mX36ou0gLKufVKa[)"4X%GYEHdU=a[*Hq]7]doYRP9&Uq24/1!']4l!]?fGZ_`h^X=`1d<ibnSEd]j/"K9r)Q!l:W/jpffa%+f*\:,]uK?QCDpIk]dT4"WLidbd*6*,nJPokF*NSo&WJ=uO\@79AA[6u;N:WciJC3Kn/AmXt%l&OOZQ*7ouV4/lk,#%rsV,le)-,pS)>O_+P&.Kg9RM]U)9a?rj/JsEmTfgZk9uGR.O>2;L3u0q\\Ntr=s&Ln+2.6(*Z.BCX=_9DIRY3:,Cs^2II]3@g*3]CLpK[X>H_'3ND@EX9>jKL,gZb?"cGk39d%L:#I$/9RTCaHcoKgN:US6lIV9[)(];"(:PT*2nbaqCC?^T),Qm"?EW^*"6_`[\#>juUqC:9X5)oj$2nX.46,=R]3X:DI].g%'."9j.p!XO'6%m,](U7]uc:HLt7m4':'3:qE+bbZ9.M]DIqA`FdG,jUgJ)/>f0@\8j)p(6.TE=)oPFTnZYS,$o=o7lW'Za/=JDmE7%"[>6i^jV,-6m7n<KWu3!3[h_/D7eRDc+N.-gFQ_f.c"\FI$BDZoh`!e%>:k*.aGmbAWaNga+:h:%p%VRWpE!Ri@koG#e-,_]YWNr!.tLmTF\ps"[G@aBP(eG=W+u>+RRU`\_0X&++uV[2KZBmYu]d),a[[f];O$-JURS#F4B3H<?eHCJDrg^d=0!/#"\]9=oY).b.L4C0))I2Lt.3mfCLK;r*_c=H7gbSY,%\>X]1U39@qgs:i9qZ/d9>q5]nq,Z&mN]'U,Hr<atZ\9FQm6)s:Z^nglXk\Aa%dFH\#C78gTUI%6E5lGN<N;aCahp9bO#(Nq\I<*3:314W%&o6h3:[&G/rMBR]oEiIfIB#t9#'`,tl;NAsgRI;qgl@;o50_!:ZRRDf)mIW)ibDHiVYfpUj2EY8_p70Z51E0C,&Mnu,kgD[rclLcYN2?KcI*8-&`,OTI;EmeI*HdmgCGH6K2jYd?md1)2]7%(qd1PPEOC\r)5(E'PdD+bN,&h#9eOclY>5_As<*LX%P)ilLqefgGrJ.FdhWJ#aG0i^;)d^IdZRK07=d@=!hBud#1$SYR9YT3q%:07nGB/d,oM-o_:Z7sgZU=SG4srm>gms]M+bo-\8a>Q]*I&;^T!RQ0)HT)KdCu808#;g]d0]K;gM<A"k25";@V!.@nEi5%0g6.<-umgoMkmHH8mS&*G;%Qh>Q@2)pD18G<n;cHFVRFMUPE):*Cl-LcId<S\5*n([=&C5S1@MZY*N\T%O:2-Yls0H@a:8hA^ec,T5Cn7O*T=XLE7+oat1gWFjGaN\(_:Pg7HMSWO,V)F4nD0hXET!$1q;OWs\M[j=YN/."'rRnWHP-+)A$h?G#JErc"N9bD2kT9&8hcpY=TJ;GJG[TZ52;Zb4Un)6/oW_Raidadm/3#+_k6cPe/uepN=-]R[SR*]-*Ok"P0#0SZN"Fd<"g>Eu"P:&2fi&t10sa8WAS)2;:)9:TZ)!RK]*Mi_@3-g):P#T5[9HQG>Bge>_GaVE&a?/A9H8(2O.alVQ\q=oD">MpV#OQUMqR,$$&rD9ELEI*8Pk!P]B1H:5/qY'l\,F$q!TpjdECSUf1D#W#(<UnX.ZUE_/YU$@E?p8jbaT;'liZcZgB_d=cGps0;\NhDb7g=7V2h1bsK[KqG_jXsiV<6CdSLCtE1lp*jj8&)#7-=<]p>IaKr``DK+e+'n5gl_5!CC1(FT~>endstream
 endobj
 12 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2862
+/Contents 13 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2862
 >>
 stream
-Gb!#]gK*(M&q/pnl=h$s/5,be+]#r\UVo'NV'P4d2GtdoT\FQ]&E`<)mZq[F"#8#=es_j-2X64#G$"(be`fmLs#T:dQkGqnFE5d&:7$POlLaI-"`n^:UHac"c-1Xk*Xlc4)qpK!Q=.XK:YHieZ2Z95,Aahp2kj'&K%+U$ZH%:k8\Mep^k<i)@uHkWbYqR5M#9lb,%M"^H'-:5Aj#+:Pp4Q<:,"d^V;QPKZ(*:=H)?qPk6j^;\YLZ)R:K`?2W=4X^5@a0oHfF*<$f^3Oi:jn^[bW5nAr8^93J><GMCqNlX(A(:;O\ZCKS`b8qg.W-&IQfaU?\PJmDJNZ\g8u=)!R.q1b^pMo\m)9*OjK=CQ4C"-B/FmjBeN6bDr>!&GiI@RVa63%_/+'UBC7.InQ[a]#bejbD%]Q$"]6-)4+>8YJ`gdZk5">a:;0)H&dqmPI%so98T&SVbQoZ1(dY=ipS&iMckm"m=<sr(ca.*(QB/2dGo)jA`@8b7FKKqLuil>ge![os$,(#LC/O4B'R745El(ogtCTN*4`+Fe7C8)3YY.`$'ehPC_P:ItYS<(0@CPk:c=&Q:tiNKB:lEaT7;0X=)Y-?2r49^TVT%WVEe(pHl0MhrjR=L,ih$FXNJ!`1dV9=QI#q9?u#pFDMFk`57TP)Q>lIp>K:4OYSu@X4rVAnfU8o^A`@qKRt1W6jiaI<"261J-goih^<:C6jf<mD8<1a>N?A/o6`Xu&ZGsJcZ_M7!%;ASfSAV>TF?/?kl!eM,15tLAAr/sdVG_NpBuY,L5;b#41K-^aY/bi(']mh%['_SL`mcS3`oEbJpb!hn63Zu$b>X?+or7r@@rHBouqK[f@9WW/0+++_"PV7D?2RS636bZ!H8iEXZ^p\!aKrcPD!c_K%]V,4U:B55r:5TM_'t$Q1=@0asmQOMOU>J;QN='P!Jo5hViYo&L+HBL7,+^aZ6=mh?h[Ec0Qck%9StboM]_:2L'e"=H[X-eVg-08+hji04E7D^V,$/!fJLj:#nke5>\`3)c[WMJniV1SQMl5X"Y-RWI+sXaVAFo0-)5QCN&K_-OXjM&,M$.;k(GpFdg"gpWhje9_/VKT9cc)-oShk&;]9eb<RX'8Xcq"_K`6Lf!goW<g+U4;m0f*=-&^_3Q`WL*s`;ST&51?n"7W)PEF\X@P[.Cg0Hrume-juh<0i\i5b99OS"&l/_@4l`oPcrkO(0GcY9f$qM9(hbF(B!ouiJbrVGVm1Jkj0#f3t&\_G3@-Pg*\IXe]+hXVn?IQt-YKD&hLp:*3L%m"6^`r05A:[8l<U\gepMsXB.;Aqf,Nm7<OHt1ba\;VJ'Hh-T]Yp^o6=<juNS/ZfLCqL`fFcJSb%R"JrKLW$Fi"RpWB?odg]o*"n$Ra34Wfa41SQUnbK*jnh61dE$<FJTaZIZ2K::mq_Q?`Y6Np*f0PiLYk=r/4Jl?D:;EV67ZkU'`Cg6.fM=44ZgTakW4?,,D2q$mUGHea*DdVU_qTj!)]L&=HH$)Cr`J#q1LbrM[t$"k>LXkkQQq65AaL!7:>Xo4Fg)RRnOCj1X["hePoC$*"UR5-`9eTHI!B;VqQ+1uA/is&uX<ZOT*2q`o;CQUUWbaHDK=joJb.R]DU/:"!`po^Ta<?bm!d'bcJm:a'Zi7FaphM?DdKc;/M'1t\AF3C-:1K63Q=^#;I@\JXu,/J&:j_M`OhS\G$%(`2m8&kW=:mI5b@pL3J'7gF4';uK+4oKeg>[c7WF)Cp,pBRK"3MC'G;i6e:)SU%3%Sa;YKE+XdPY`dV\Q7.$s7.o%A;W#2!kek=VWYQJB@j>1]AFV,1Logg,:%c.OTTfR\O9_oPQ/aocOUV.]43)]reZ<`+--#II6qgM\$'-KLW;7epLpWYoWQ@R76$%S9Yk5:"qhSFot"X:4d6m[R31*&o1ergp%`miU<?q!5FM@3jJP_s]&!7D1$3`,DAVB,T,+D&gksNP^dcti5Qii]l`s,a%kXSTPI5T]/R(bB?BCSUp#Gc(N[5JZd^.'(h7+5hV.lZdjkr:-(%;n_SU_@j3b@NWB8g.UjS4\i=NdNpE]/J+9#Rq@1n^':"pL(;K`uhTUnPp\&f_s4.D[+\]Ql>^-8^g=4qdheJuR1$GqEQ%_#FLt[1n5i'm?c,e0,=h&,Q"\fr2.T8m';?(0@F^l5;Du$0DLtjCWBUe>BC*(L#%$:aIWboKbE7)91qcSjLl#EZB1p5A=AIAusUhqqZJVK!jVj^#]ZBI'pUj,DtZeF7-4095i?)B6d7d]Dh(ih-Z@6^H8ems%JI:ln!L]@Y+q:o;G\i<9@/H<YLqC$.DYM7_8IsRNd+WE0KHVbCkf%QZc.P)(e(#AWc2O&9Qg[RfVg*:'pjFGO-49?%11Hb1(Qol#]7!1?_T7FPYG@c#2`>%eV0^G<VU4%WR*<JK"J?bTSVM+9h4%W*.1FmKI5@SVpT`$EK_bC*uct?2D8Kr8cS#@n62M\&R6J5,W<#7\K8Z\E4Q'kp!<"b:3'9b7l#^b!j%#"?G(r\HSsfN0:fOoMnV$cS[),"ob5kh,1o;]2AHr%rLX'F!ChuM_8.WbNa]V:"M8Yo[53b*_Nr76"t]0Cda-6pbp"p'Dpt8crg%/qR<TcQd#\U\`'oMbX?,mX!Qeb'rOl_8Gq@A-W'"6e-G'Lg5)Il$STj0P#du7&J(GO*@l3$#_Z^D=YO"<%I.eZp.+S!5\E%X>3VMtI:8D]0Gf-2JJMToHOoDBRK[G5DLA6L<uFdV\PWi6(&)Thm^G,:gP5:,NqS4rS7g=+\hHi5%eV;&=d6g-I4$h7/CGO_R'&3RRne:SPemS!JQTu;NdccqP,9B]m?8$9\63Dm_kZ?fB5@8+s4b3E.inR!kJU>^~>endstream
+Gb!#]gK*(M&q/pnl=h$s/5,be+]#r\UVo'NV'P4d2GtdoT\FQ]&E`<)mZq[F"#8#=es_j-2X64#G$"(be`fmLs#T:dQkGqnFE5d&:7$POlLaI-"`n^:UHac"c-1Xk*Xlc4)qpK!Q=.XK:YHieZ2Z95,Aahp2kj'&K%+U$ZH%:k8\Mep^k<i)@uHkWbYqR5M#9lb,%M"^H'-:5Aj#+:Pp4Q<:,"d^V;QPKZ(*:=H)?qPk6j^;\YLZ)R:K`?2W=4X^5@a0oHfF*<$f^3Oi:jn^[bW5nAr8^93J><GMCqNlX(A(:;O\ZCKS`b8qg.W-&IQfaU?\PJmDJNZ\g8u=)!R.q1b^pMo\m)9*OjK=CQ4C"-B/FmjBeN6bDr>!&GiI@RVa63%_/+'UBC7.InQ[a]#bejbD%]Q$"]6-)4+>8YJ`gdZk5">a:;0)H&dqmPI%so98T&SVbQoZ1(dY=ipS&iMckm"m=<sr(ca.*(QB/2dGo)jA`@8b7FKKqLuil>ge![os$,(#LC/O4B'R745El(ogtCTN*4`+Fe7C8)3YY.`$'ehPC_P:ItYS<(0@CPk:c=&Q:tiNKB:lEaT7;0X=)Y-?2r49^TVT%WVEe(pHl0MhrjR=L,ih$FXNJ!`1dV9=QI#q9?u#pFDMFk`57TP)Q>lIp>K:4OYSu@X4rVAnfU8o^A`@qKRt1W6jiaI<"261J-goih^<:C6jf<mD8<1a>N?A/o6`Xu&ZGsJcZ_M7!%;ASfSAV>TF?/?kl!eM,15tLAAr/sdVG_NpBuY,L5;b#41K-^aY/bi(']mh%['_SL`mcS3`oEbJpb!hn63Zu$b>X?+or7r@@rHBouqK[f@9WW/0+++_"PV7D?2RS636bZ!H8iEXZ^p\!aKrcPD!c_K%]V,4U:B55r:5TM_'t$Q1=@0asmQOMOU>J;QN='P!Jo5hViYo&L+HBL7,+^aZ6=mh?h[Ec0Qck%9StboM]_:2L'e"=H[X-eVg-08+hji04E7D^V,$/!fJLj:#nke5>\`3)c[WMJniV1SQMl5X"Y-RWI+sXaVAFo0-)5QCN&K_-OXjM&,M$.;k(GpFdg"gpWhje9_/VKT9cc)-oShk&;]9eb<RX'8Xcq"_K`6Lf!goW<g+U4;m0f*=-&^_3Q`WL*s`;ST&51?n"7W)PEF\X@P[.Cg0Hrume-juh<0i\i5b99OS"&l/_@4l`oPcrkO(0GcY9f$qM9(hbF(B!ouiJbrVGVm1Jkj0#f3t&\_G3@-Pg*\IXe]+hXVn?IQt-YKD&hLp:*3L%m"6^`r05A:[8l<U\gepMsXB.;Aqf,Nm7<OHt1ba\;VJ'Hh-T]Yp^o6=<juNS/ZfLCqL`fFcJSb%R"JrKLW$Fi"RpWB?odg]o*"n$Ra34Wfa41SQUnbK*jnh61dE$<FJTaZIZ2K::mq_Q?`Y6Np*f0PiLYk=r/4Jl?D:;EV67ZkU'`Cg6.fM=44ZgTakW4?,,D2q$mUGHea*DdVU_qTj!)]L&=HH$)Cr`J#q1LbrM[t$"k>LXkkQQq65AaL!7:>Xo4Fg)RRnOCj1X["hePoC$*"UR5-`9eTHI!B;VqQ+1uA/is&uX<ZOT*2q`o;CQUUWbaHDK=joJb.R]DU/:"!`po^Ta<?bm!d'bcJm:a'Zi7FaphM?DdKc;/M'1t\AF3C-:1K63Q=^#;I@\JXu,/J&:j_M`OhS\G$%(`2m8&kW=:mI5b@pL3J'7gF4';uK+4oKeg>[c7WF)Cp,pBRK"3MC'G;i6e:)SU%3%Sa;YKE+XdPY`dV\Q7.$s7.o%A;W#2!kek=VWYQJB@j>1]AFV,1Logg,:%c.OTTfR\O9_oPQ/aocOUV.]43)]reZ<`+--#II6qgM\$'-KLW;7epLpWYoWQ@R76$%S9Yk5:"qhSFot"X:4d6m[R31*&o1ergp%`miU<?q!5FM@3jJP_s]&!7D1$3`,DAVB,T,+D&gksNP^dcti5Qii]l`s,a%kXSTPI5T]/R(bB?BCSUp#Gc(N[5JZd^.'(h7+5hV.lZdjkr:-(%;n_SU_@j3b@NWB8g.UjS4\i=NdNpE]/J+9#Rq@1n^':"pL(;K`uhTUnPp\&f_s4.D[+\]Ql>^-8^g=4qdheJuR1$GqEQ%_#FLt[1n5i'm?c,e0,=h&,Q"\fr2.T8m';?(0@F^l5;Du$0DLtjCWBUe>BC*(L#%$:aIWboKbE7)91qcSjLl#EZB1p5A=AIAusUhqqZJVK!jVj^#]ZBI'pUj,DtZeF7-4095i?)B6d7d]Dh(ih-Z@6^H8ems%JI:ln!L]@Y+q:o;G\i<9@/H<YLqC$.DYM7_8IsRNd+WE0KHVbCkf%QZc.P)(e(#AWc2O&9Qg[RfVg*:'pjFGO-49?%11Hb1(Qol#]7!1?_T7FPYG@c#2`>%eV0^G<VU4%WR*<JK"J?bTSVM+9h4%W*.1FmKI5@SVpT`$EK_bC*uct?2D8Kr8cS#@n62M\&R6J5,W<#7\K8Z\E4Q'kp!<"b:3'9b7l#^b!j%#"?G(r\HSsfN0:fOoMnV$cS[),"ob5kh,1o;]2AHr%rLX'F!ChuM_8.WbNa]V:"M8Yo[53b*_Nr76"t]0Cda-6pbp"p'Dpt8crg%/qR<TcQd#\U\`'oMbX?,mX!Qeb'rOl_8Gq@A-W'"6e-G'Lg5)Il$STj0P#du7&J(GO*@l3$#_Z^D=YO"<%I.eZp.+S!5\E%X>3VMtI:8D]0Gf-2JJMToHOoDBRK[G5DLA6L<uFdV\PWi6(&)Thm^G,:gP5:,NqS4rS7g=+\hHi5%eV;&=d6g-I4$h7/CGO_R'&3RRne:SPemS!JQTu;NdccqP,9B]m?8$9\63Dm_kZ?fB5@8+s4b3E.inR!kJU>^~>
+endstream
+endobj
+14 0 obj
+<<
+/F1 8 0 R
+/F2 10 0 R
+/F3 11 0 R
+>>
 endobj
 xref
-0 13
+0 15
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000328 00000 n 
-0000000526 00000 n 
-0000000638 00000 n 
-0000000851 00000 n 
-0000001046 00000 n 
-0000001115 00000 n 
-0000001395 00000 n 
-0000001461 00000 n 
-0000005307 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000426 00000 n 
+0000000645 00000 n 
+0000000839 00000 n 
+0000011089 00000 n 
+0000011196 00000 n 
+0000011303 00000 n 
+0000011413 00000 n 
+0000011526 00000 n 
+0000011718 00000 n 
+0000014673 00000 n 
 trailer
 <<
-/ID 
-[<817d6b672ddaddbc90d096dad7e00234><817d6b672ddaddbc90d096dad7e00234>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 9 0 R
-/Root 8 0 R
-/Size 13
+/Size 15
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-8261
+14727
 %%EOF
